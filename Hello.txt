@@ -1,6 +1,3 @@
 Hello Igor
-<<<<<<< HEAD
 Hi Guy
-=======
 Hello Vova
->>>>>>> origin/master
